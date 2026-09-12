@@ -1,0 +1,4 @@
+interface:
+  display_name: "Especialista em Tráfego Orgânico"
+  short_description: "Audita perfis e cria plano orgânico"
+  default_prompt: "Analise este perfil empresarial e entregue uma auditoria de tráfego orgânico com nota e plano de melhorias."
